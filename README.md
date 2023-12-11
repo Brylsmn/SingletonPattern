@@ -7,4 +7,4 @@ Each help desk station has an option to reset the queuing number based on an inp
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
 
 # UML Class Diagram
-! [Alt Text] (https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/405864514_3740756572915100_103842974129143532_n.png?stp=dst-png_s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGIIBR2D6Lrw_QHDBfvHrv_uhEln-nskP-6ESWf6eyQ_2W_6xwKd_Eqp7QL2nmBhmv_Ecs9omD1ndC6CwRCoZ4-&_nc_ohc=Ew6qLliirBIAX_PJOJN&_nc_ht=scontent.fmnl8-3.fna&oh=03_AdQJNHFNvMZ3EXWBDXS-yc9ia6NuZGx3aH3TAUQDp5plSA&oe=659E21CB)
+![Alt Text](https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/405864514_3740756572915100_103842974129143532_n.png?stp=dst-png_s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGIIBR2D6Lrw_QHDBfvHrv_uhEln-nskP-6ESWf6eyQ_2W_6xwKd_Eqp7QL2nmBhmv_Ecs9omD1ndC6CwRCoZ4-&_nc_ohc=Ew6qLliirBIAX_PJOJN&_nc_ht=scontent.fmnl8-3.fna&oh=03_AdQJNHFNvMZ3EXWBDXS-yc9ia6NuZGx3aH3TAUQDp5plSA&oe=659E21CB)
